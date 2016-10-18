@@ -3,7 +3,8 @@ Applicativo di contabilità semplificata
 
 Specifiche del software
 
-1. Generali
+1. Generali.
+
 todo
 
 2. Interfaccia
