@@ -7,13 +7,16 @@ Specifiche del software
 
 todo
 
-2. Interfaccia
+2. Interfaccia.
+
 todo
 
-3. Architettura
+3. Architettura.
+
 todo
 
-4. Strumenti
+4. Strumenti.
+
 todo
 
 end of file
